@@ -1,0 +1,10 @@
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\printer\ValuePrinter.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\expression\ExpressionEvaluator.class
+com\spring\professional\exam\tutorial\module03\question04\callback\streams\Example2.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\expression\MinusExpressionEvaluator.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\ds\Pair.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\expression\AddExpressionEvaluator.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\evaluator\NumbersEvaluator.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\Example1.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\printer\DecoratedValuePrinter.class
+com\spring\professional\exam\tutorial\module03\question04\callback\custom\printer\StandardValuePrinter.class

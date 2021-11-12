@@ -1,0 +1,8 @@
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\configuration\ProductsDbConfiguration.class
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\db\employees\dao\EmployeeDao.class
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\Runner.class
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\service\WarehouseService.class
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\db\products\ds\Product.class
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\db\products\dao\ProductDao.class
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\configuration\EmployeesDbConfiguration.class
+com\spring\professional\exam\tutorial\module03\question23\jpa\tx\db\employees\ds\Employee.class

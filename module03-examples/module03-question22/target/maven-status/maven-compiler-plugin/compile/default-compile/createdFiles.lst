@@ -1,0 +1,10 @@
+com\spring\professional\exam\tutorial\module03\question22\aspect\DataSourceAspect.class
+com\spring\professional\exam\tutorial\module03\question22\service\EmployeeService.class
+com\spring\professional\exam\tutorial\module03\question22\aspect\CallTracer.class
+com\spring\professional\exam\tutorial\module03\question22\configuration\DataSourceConfiguration.class
+com\spring\professional\exam\tutorial\module03\question22\ds\Employee.class
+com\spring\professional\exam\tutorial\module03\question22\Runner.class
+com\spring\professional\exam\tutorial\module03\question22\aspect\ConnectionInvocationHandler.class
+com\spring\professional\exam\tutorial\module03\question22\dao\JdbcEmployeeDao.class
+com\spring\professional\exam\tutorial\module03\question22\configuration\JpaConfiguration.class
+com\spring\professional\exam\tutorial\module03\question22\dao\JpaEmployeeDao.class

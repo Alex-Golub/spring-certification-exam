@@ -1,0 +1,5 @@
+# Auto Configure
+# \ same as CRLF
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.spring.professional.exam.tutorial.module04.question04.my.autoconfiguration.DataSourceAutoConfiguration,\
+com.spring.professional.exam.tutorial.module04.question04.my.autoconfiguration.JpaAutoConfiguration

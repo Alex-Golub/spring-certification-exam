@@ -167,10 +167,56 @@
         </ul>
       </details>
 
-- **⬜ Module 04 – Spring Boot**
+- **✅ Module 04 – Spring Boot**
 
   - <details>
       <summary>Question List</summary>
+        <ul>
+        <li>Question 01 - What is Spring Boot?</li>
+        <li>Question 02 - What are the advantages of using Spring Boot?</li>
+        <li>Question 03 - Why is it &quot;<em>opinionated</em>&quot;?</li>
+        <li>Question 04 - What things affect what Spring Boot sets up?</li>
+        <li>Question 05 - What is a Spring Boot starter <code>POM</code>? Why is it useful?</li>
+        <li>Question 06 - Spring Boot supports both properties and <code>YML</code> files. Would you recognize and understand them if you saw them?</li>
+        <li>Question 07 - Can you control logging with Spring Boot? How?</li>
+        <li>Question 08 - Where does Spring Boot look for property file by default?</li>
+        <li>Question 09 - How do you define profile specific property files?</li>
+        <li>Question 10 - How do you access the properties defined in the property files?</li>
+        <li>Question 11 - What properties do you have to define in order to configure external MySQL?</li>
+        <li>Question 12 - How do you configure default schema and initial data?</li>
+        <li>Question 13 - What is a <strong>fat jar</strong>? How is it different from the original jar?</li>
+        <li>Question 14 - What is the difference between an embedded container and a <code>WAR</code>?</li>
+        <li>Question 15 - What embedded containers does Spring Boot support?</li>
+        <li>Question 16 - How does Spring Boot know what to configure?</li>
+        <li>Question 17 - What does <code>@EnableAutoConfiguration</code> do?</li>
+        <li>Question 18 - What does <code>@SpringBootApplication</code> do?</li>
+        <li>Question 19 - Does Spring Boot do component scanning? Where does it look by default?</li>
+        <li>Question 20 - How are <code>DataSource</code> and <code>JdbcTemplate</code> autoconfigured?</li>
+        <li>Question 21 - What is <code>spring.factories</code> file for?</li>
+        <li>Question 22 - How do you customize Spring auto configuration?</li>
+        <li>Question 23 - What are the examples of <code>@Conditional</code> annotations? How are they used?</li>
+        <li>Question 24 - What value does Spring Boot <em>Actuator</em> provide?</li>
+        <li>Question 25 - What are the two protocols you can use to access actuator endpoints?</li>
+        <li>Question 26 - What are the actuator endpoints that are provided out of the box?</li>
+        <li>Question 27 - What is <code>info</code> endpoint for? How do you supply data?</li>
+        <li>Question 28 - How do you change logging level of a package using loggers endpoint?</li>
+        <li>Question 29 - How do you access an endpoint using a <code>tag</code>?</li>
+        <li>Question 30 - What is metrics for?</li>
+        <li>Question 31 - How do you create a custom metric with or without tags?</li>
+        <li>Question 32 - What is <code>Health</code> Indicator?</li>
+        <li>Question 33 - What are the Health Indicators that are provided out of the box?</li>
+        <li>Question 34 - What is the Health Indicator status?</li>
+        <li>Question 35 - What are the Health Indicator statuses that are provided out of the box?</li>
+        <li>Question 36 - How do you change the Health Indicator status severity order?</li>
+        <li>Question 37 - Why do you want to leverage 3rd-party external monitoring system?</li>
+        <li>Question 38 - When do you want to use <code>@SpringBootTest</code> annotation?</li>
+        <li>Question 39 - What does <code>@SpringBootTest</code> auto-configure?</li>
+        <li>Question 40 - What dependencies does <code>spring-boot-starter-test</code> brings to the classpath?</li>
+        <li>Question 41 - How do you perform <em>integration testing</em> with <code>@SpringBootTest</code> for a web application?</li>
+        <li>Question 42 - When do you want to use <code>@WebMvcTest</code>? What does it auto-configure?</li>
+        <li>Question 43 - What are the differences between <code>@MockBean</code> and <code>@Mock</code>?</li>
+        <li>Question 44 - When do you want use <code>@DataJpaTest</code> for? What does it auto-configure?</li>
+        </ul>
     </details>
 
 - **⬜ Module 05 - Spring MVC and The Web Layer**

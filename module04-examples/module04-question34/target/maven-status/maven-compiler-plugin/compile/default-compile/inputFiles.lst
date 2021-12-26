@@ -1,0 +1,6 @@
+C:\Users\2allj\Desktop\spring-certification-exam\module04-examples\module04-question34\src\main\java\com\spring\professional\exam\tutorial\module04\question34\health\UnknownStatusHealthIndicator.java
+C:\Users\2allj\Desktop\spring-certification-exam\module04-examples\module04-question34\src\main\java\com\spring\professional\exam\tutorial\module04\question34\health\AlwaysDownHealthIndicator.java
+C:\Users\2allj\Desktop\spring-certification-exam\module04-examples\module04-question34\src\main\java\com\spring\professional\exam\tutorial\module04\question34\health\AlwaysUpHealthIndicator.java
+C:\Users\2allj\Desktop\spring-certification-exam\module04-examples\module04-question34\src\main\java\com\spring\professional\exam\tutorial\module04\question34\Runner.java
+C:\Users\2allj\Desktop\spring-certification-exam\module04-examples\module04-question34\src\main\java\com\spring\professional\exam\tutorial\module04\question34\health\CustomStatusHealthIndicator.java
+C:\Users\2allj\Desktop\spring-certification-exam\module04-examples\module04-question34\src\main\java\com\spring\professional\exam\tutorial\module04\question34\health\OutOfServiceHealthIndicator.java

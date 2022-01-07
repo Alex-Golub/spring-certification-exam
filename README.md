@@ -219,10 +219,73 @@
         </ul>
     </details>
 
-- **⬜ Module 05 - Spring MVC and The Web Layer**
+- **✅ Module 05 - Spring MVC and The Web Layer**
 
   - <details>
       <summary>Question List</summary>
+      <ul>
+        <li>Question 01 - <code>MVC</code> is an abbreviation for a design pattern.<br>What does it stand for and what is the idea behind it?</li>
+        <li>Question 02 - What is the <code>DispatcherServlet</code> and what is it used for?</li>
+        <li>Question 03 - What is a web application context?<br>What extra scopes does it offer? <code>@RequestScope</code>, <code>@SessionScope</code>, <code>@ApplicationScope</code></li>
+        <li>Question 04 - What is the <code>@Controller</code> annotation used for?</li>
+        <li>Question 05 - How is an incoming request mapped to a controller and mapped to a method?</li>
+        <li>Question 06 - What is the difference between <code>@RequestMapping</code> and <code>@GetMapping</code>?</li>
+        <li>Question 07 - What is <code>@RequestParam</code> used for?</li>
+        <li>Question 08 - What are the differences between <code>@RequestParam</code> and <code>@PathVariable</code>?</li>
+        <li>Question 09 - What are some of the parameter types for a controller method?<ul>
+        <li>WebRequest, NativeWebRequest</li>
+        <li><code>javax.servlet.ServletRequest</code></li>
+        <li><code>javax.servlet.ServletResponse</code></li>
+        <li><code>javax.servlet.http.HttpSession</code></li>
+        <li><code>javax.servlet.http.PushBuilder</code></li>
+        <li><code>java.security.Principal</code></li>
+        <li><code>HttpMethod</code>: GET, HEAD, POST, PUT, PATCH, DELETE, OPTIONS, TRACE</li>
+        <li><code>java.util.Locale</code></li>
+        <li><code>java.util.TimeZone</code> and <code>java.time.ZoneId</code></li>
+        <li><code>java.io.InputStream</code> and <code>java.io.Reader</code></li>
+        <li><code>java.io.OutputStream</code> and <code>java.io.Writer</code></li>
+        <li><code>HttpEntity&lt;B&gt;</code></li>
+        <li><code>java.util.Map</code>, <code>org.springframework.ui.Model</code>, <code>org.springframework.ui.ModelMap</code></li>
+        <li><code>RedirectAttributes</code></li>
+        <li><code>Errors</code>, <code>BindingResult</code></li>
+        <li><code>SessionStatus</code> + class-level <code>@SessionAttributes</code></li>
+        <li><code>UriComponentsBuilder</code></li>
+        <li><code>@RequestParam</code></li>
+        </ul>
+        </li>
+        <li>Question 10 - What other annotations might you use on a controller method parameter?<ul>
+        <li><code>@RequestParam</code></li>
+        <li><code>@PathVariable</code></li>
+        <li><code>@MatrixVariable</code></li>
+        <li><code>@CookieValue</code></li>
+        <li><code>@RequestHeader</code></li>
+        <li><code>@RequestBody</code></li>
+        <li><code>@RequestPart</code></li>
+        <li><code>@RequestAttribute</code></li>
+        <li><code>@ModelAttribute</code></li>
+        <li><code>@SessionAttribute</code></li>
+        <li><code>@SessionAttributes</code></li>
+        </ul>
+        </li>
+        <li>Question 11 - What are some of the valid return types of a controller method?<ul>
+        <li><code>@ResponseBody</code></li>
+        <li><code>HttpEntity&lt;B&gt;</code>, <code>ResponseEntity&lt;B&gt;</code></li>
+        <li><code>HttpHeaders</code></li>
+        <li><code>String</code></li>
+        <li><code>View</code> return instance of views such as <code>JstlView</code>, <code>ThymeleafView</code>, <code>FreeMarkerView</code></li>
+        <li><code>Map</code>, <code>Model</code></li>
+        <li><code>@ModelAttribute</code></li>
+        <li><code>ModelAndView</code></li>
+        <li><code>void</code></li>
+        <li><code>DeferredResult&lt;V&gt;</code></li>
+        <li><code>Callable&lt;V&gt;</code></li>
+        <li><code>ListenableFuture&lt;V&gt;</code>, <code>CompletableFuture&lt;V&gt;</code>, <code>CompletionStage&lt;V&gt;</code></li>
+        <li><code>ResponseBodyEmitter</code>, <code>SseEmitter</code></li>
+        <li><code>StreamingResponseBody</code></li>
+        <li>Reactive types</li>
+        </ul>
+        </li>
+        </ul>
     </details>
 
 - **⬜ Module 06 – Security**
@@ -238,6 +301,7 @@
     </details>
 
 - **⬜ Module 08 – Testing**
+
   - <details>
       <summary>Question List</summary>
     </details>

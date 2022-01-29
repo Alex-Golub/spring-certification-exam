@@ -288,10 +288,27 @@
         </ul>
     </details>
 
-- **⬜ Module 06 – Security**
+- **✅ Module 06 – Security**
 
   - <details>
       <summary>Question List</summary>
+        <ul>
+          <li>Question 01 - What are <em>authentication</em> and <em>authorization</em>? Which must come first?</li>
+          <li>Question 02 - Is security a <em>cross cutting concern</em>?</li>
+          <li>Question 02 - Levels of security and objects involved in authentication and authorization processes</li>
+          <li>Question 03 - What is the <code>DelegatingFilterProxy</code>?</li>
+          <li>Question 04 - What is the <code>SecurityFilterChain</code>?</li>
+          <li>Question 05 - What is a <code>SecurityContext</code> and <code>SecurityContextHolder</code>?
+          Which access modes are available?
+          What <code>Authentication</code> object is used for?</li>
+          <li>Question 06 - <code>antMatcher</code> and <code>mvcMatcher</code> support which matching rules?</li>
+          <li>Question 07 - Why is the usage of <code>mvcMatcher</code> recommended over <code>antMatcher</code>?</li>
+          <li>Question 08 - Does Spring Security support password hashing? What is <em>salting</em>?</li>
+          <li>Question 09 - Why do you need method security? What type of object is typically secured at<br>the method level (think of its purpose not its Java type).</li>
+          <li>Question 10 - What do<code>@PreAuthorized</code> and <code>@RolesAllowed</code> annotations do?<br>What is the difference between them?</li>
+          <li>Question 11 - How are <code>@PreAuthorized</code> and <code>@RolesAllowed</code> annotations implemented?</li>
+          <li>Question 12 - In which security annotation are you allowed to use <code>SpEL</code>?</li>
+        </ul>
     </details>
 
 - **⬜ Module 07 – REST**

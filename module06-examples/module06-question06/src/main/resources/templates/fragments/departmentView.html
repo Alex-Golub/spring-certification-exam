@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+
+<form action="#" th:fragment="departmentView" th:object="${department}">
+  <div class="row">
+    <div class="col-md-4 mb-3">
+      <label for="code">Code</label>
+      <input class="form-control" id="code" readonly th:field="*{code}" type="text">
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="name">Name</label>
+      <input class="form-control" id="name" readonly th:field="*{name}" type="text">
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="country">Country</label>
+      <input class="form-control" id="country" readonly th:field="*{country}" type="text">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-4">
+      <a href="#" th:href="@{/departments}">Back to Departments List</a>
+    </div>
+  </div>
+</form>
+
+</body>
+</html>

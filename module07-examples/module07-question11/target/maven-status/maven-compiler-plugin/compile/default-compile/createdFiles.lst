@@ -1,0 +1,6 @@
+com\spring\professional\exam\tutorial\module07\question11\Application.class
+com\spring\professional\exam\tutorial\module07\question11\controller\ArticlesRestController.class
+com\spring\professional\exam\tutorial\module07\question11\ds\Articles.class
+com\spring\professional\exam\tutorial\module07\question11\dao\ArticlesDao.class
+com\spring\professional\exam\tutorial\module07\question11\controller\ArticlesController.class
+com\spring\professional\exam\tutorial\module07\question11\ds\Article.class

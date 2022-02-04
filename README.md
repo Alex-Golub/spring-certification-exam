@@ -311,10 +311,35 @@
         </ul>
     </details>
 
-- **⬜ Module 07 – REST**
+- **✅ Module 07 – REST**
 
   - <details>
       <summary>Question List</summary>
+      <ul>
+        <li>Question 01 - What does <strong><em>REST</em></strong> stand for?</li>
+        <li>Question 02 - What is a resource?</li>
+        <li>Question 03 - What does <strong><em>CRUD</em></strong> mean?</li>
+        <li>Question 04 - Is REST secure? What can you do to secure it?</li>
+        <li><code>Question 05 - Is REST scalable and/or interoperable? (Microservice example code)</code></li>
+        <li>Question 06 - Which http methods does rest use?</li>
+        <li>Question 07 - What is an <code>HttpMessageConverter</code>?</li>
+        <li>Question 08 - Is rest normally stateless?</li>
+        <li>Question 09 - What does <code>@RequestMapping</code> do?</li>
+        <li>Question 10 - Is <code>@Controller</code> a stereotype is <code>@RestController</code> a stereotype?
+        What is a stereotype annotation?
+        What does that mean?</li>
+        <li>Question 11 - What is the difference between <code>@Controller</code> and <code>@RestController</code>?</li>
+        <li>Question 12 - When do you need <code>@ResponseBody</code>?</li>
+        <li>Question 13 - What are the http status return codes for a successful <code>GET</code>?</li>
+        <li>Question 14 - When do you need <code>@ResponseStatus</code>?</li>
+        <li>Question 15 - Where do you need <code>@ResponseBody</code>
+        what about <code>@RequestBody</code>?</li>
+        <li>Question 16 - If you saw example controller code would you understand it?</li>
+        <li>Question 17 - Do you need <code>spring-webmvc</code> in your classpath?</li>
+        <li>Question 18 - What spring boot starter would you use for a spring rest?</li>
+        <li>Question 19 - What are the advantages of the <code>RestTemplate</code>?</li>
+        <li>Question 20 - If you saw an example using <code>RestTemplate</code> would you?</li>
+      </ul>
     </details>
 
 - **⬜ Module 08 – Testing**

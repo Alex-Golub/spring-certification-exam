@@ -1,8 +1,0 @@
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\ds\TodoItem.class
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\DataSourceConfiguration.class
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\JpaConfiguration.class
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\web\TodoController.class
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\DataSourceInitialization.class
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\Application.class
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\dao\TodoItemsDao.class
-com\spring\professional\exam\tutorial\module04\question03\without\autoconfiguration\ApplicationConfiguration.class

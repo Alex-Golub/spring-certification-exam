@@ -1,7 +1,0 @@
-com\spring\professional\exam\tutorial\module06\question03\controller\IndexController.class
-com\spring\professional\exam\tutorial\module06\question03\controller\ErrorController.class
-com\spring\professional\exam\tutorial\module06\question03\controller\LoginController.class
-com\spring\professional\exam\tutorial\module06\question03\Application.class
-com\spring\professional\exam\tutorial\module06\question03\security\WebSecurityConfig.class
-com\spring\professional\exam\tutorial\module06\question03\security\SecurityRoles.class
-com\spring\professional\exam\tutorial\module06\question03\controller\SecretResourcesController.class

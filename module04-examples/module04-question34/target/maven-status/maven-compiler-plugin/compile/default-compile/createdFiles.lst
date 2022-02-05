@@ -1,6 +1,0 @@
-com\spring\professional\exam\tutorial\module04\question34\Runner.class
-com\spring\professional\exam\tutorial\module04\question34\health\CustomStatusHealthIndicator.class
-com\spring\professional\exam\tutorial\module04\question34\health\OutOfServiceHealthIndicator.class
-com\spring\professional\exam\tutorial\module04\question34\health\UnknownStatusHealthIndicator.class
-com\spring\professional\exam\tutorial\module04\question34\health\AlwaysDownHealthIndicator.class
-com\spring\professional\exam\tutorial\module04\question34\health\AlwaysUpHealthIndicator.class

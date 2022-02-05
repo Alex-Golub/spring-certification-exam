@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.spring.professional.exam.tutorial.module07.question20.controller.ApiControllerTest
--------------------------------------------------------------------------------
-Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.757 sec

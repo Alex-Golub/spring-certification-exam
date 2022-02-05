@@ -1,6 +1,0 @@
-com\spring\professional\exam\tutorial\module03\question25\Runner.class
-com\spring\professional\exam\tutorial\module03\question25\ds\Employee.class
-com\spring\professional\exam\tutorial\module03\question25\dao\EmployeeDao.class
-com\spring\professional\exam\tutorial\module03\question25\service\EmployeeService.class
-com\spring\professional\exam\tutorial\module03\question25\configuration\JpaConfiguration.class
-com\spring\professional\exam\tutorial\module03\question25\configuration\DataSourceConfiguration.class

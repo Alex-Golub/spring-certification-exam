@@ -342,8 +342,23 @@
       </ul>
     </details>
 
-- **⬜ Module 08 – Testing**
+- **✅ Module 08 – Testing**
 
   - <details>
       <summary>Question List</summary>
+      <ul>
+        <li>Question 01 - Do you use Spring in a unit test?</li>
+        <li>Question 02 - What type of tests typically use Spring? Integration test annotations:
+        <code>@ContextConfiguration</code>, <code>@BootstrapWith</code>, <code>@DirtiesContext</code>, <code>@ActiveProfiles</code>,
+        <code>@TestPropertySource</code>, <code>@WebAppConfiguration</code>, <code>@ContextHierarchy</code>, <code>@TestExecutionListeners</code>,
+        <code>@Commit</code>, <code>@Rollback</code>, <code>@BeforeTransaction</code>, <code>@AfterTransaction</code>,
+        <code>@Sql</code>, <code>@SqlConfig</code>, <code>@SqlGroup</code></li>
+        <li>Question 03 - How can you create a shared application context in a JUnit integration test?</li>
+        <li>Question 04 - When and where do you use <code>@Transactional</code> in testing?</li>
+        <li>Question 05 - How are mock frameworks such as <code>Mockito</code> or <code>EasyMock</code> used?</li>
+        <li>Question 06 - How is <code>@ContextConfiguration</code> used?</li>
+        <li>Question 07 - How does Spring Boot simplify writing tests?</li>
+        <li>Question 08 - What does <code>@SpringBootTest</code> do?
+        How does it interact with <code>@SpringBootApplication</code> and <code>@SpringBootConfiguration</code>?</li>
+      </ul>
     </details>
